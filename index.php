@@ -1,15 +1,15 @@
 <!DOCTYPE HTML> 
 <head>
-	<meta http-equiv="content-type" content="text/html" />
-	<meta name="author" content="Boomer" />
-
+	s
 	<title>Day 1</title>
 </head>
 
 <body>
-<strong>This is bold</strong>
-<em>This is italics</em>
-
+<b>This is bold</b>
+<br />
+<strong>this is another bold text</strong>
+<i>This is italics</i>
+<em>this is another italic</em>
 <h1>This is heading 1</h1>
 x<sup>2</sup>
 <br />
