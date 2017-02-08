@@ -38,5 +38,28 @@ adf adfad fa
 
 <span>adfadfadf</span><span>adfadfadf</span>
 <div>adfadfadf</div>
+
+-------------------------------------------------------------------------------------
+
+<ol>
+    <li>Anwar ALi</li>
+    <li>Javed</li>
+    <li>Saif</li>
+    <li>Firoj</li>
+</ol>
+
+<ul>
+    <li>Anwar ALi</li>
+    <li>Javed</li>
+    <li>Saif</li>
+    <li>Firoj</li>
+</ul>
+
+<table border="1">
+    <tr><td>Name</td><td>Gender</td><td>Age</td></tr>
+    <tr><td>Javed</td><td>Male</td><td>25</td></tr>
+    <tr><td>Firoj</td><td>Male</td><td>22</td></tr>
+</table>
+
 </body>
 </html>
