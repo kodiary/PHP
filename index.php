@@ -1,17 +1,20 @@
 <!DOCTYPE HTML> 
 <head>
-	s
+
 	<title>Day 1</title>
 </head>
 
 <body>
-<b>This is bold</b>
+<b>This is the bold one</b>
 <br />
-<strong>this is another bold text</strong>
+<strong>This is another bold text</strong>
+</br>
 <i>This is italics</i>
-<em>this is another italic</em>
+</br>
+<em>This is another italic</em>
+</br>
 <h1>This is heading 1</h1>
-x<sup>2</sup>
+X<sup>2</sup>
 <br />
 H<sub>2</sub>O
 
