@@ -19,28 +19,23 @@ X<sup>2</sup>
 H<sub>2</sub>O
 
 <p>
-adfadfadsadf adf
-ad fadf adf
-adf adadf ad
-adf adfad fa
+hello
+how are u??
+are u all good??
+then lets goooo!!!!!!
 </p>
 
 <p>
-adfadfadsadf adf
-ad fadf adf
-adf adadf ad
-adf adfad fa
+hii
+i am all good
+how are you then??
+okay lets goooooooooooooooooo!!!!!!
 </p>
 
-<p>
-adfadfadsadf adf
-ad fadf adf
-adf adadf ad
-adf adfad fa
-</p>
 
-<span>adfadfadf</span><span>adfadfadf</span>
-<div>adfadfadf</div>
+
+<span>huhuhhuhuh</span><span>hohohohohoh</span>
+<div>hahahahahahaha</div>
 
 -------------------------------------------------------------------------------------
 
@@ -58,10 +53,12 @@ adf adfad fa
     <li>Firoj</li>
 </ul>
 
-<table border="1">
+<table border="1"; bg color= "red" >
+
     <tr><td>Name</td><td>Gender</td><td>Age</td></tr>
     <tr><td>Javed</td><td>Male</td><td>25</td></tr>
     <tr><td>Firoj</td><td>Male</td><td>22</td></tr>
+    <tr><td>Saif</td><td>Male</td><td>18</td></tr>
 </table>
 
 </body>
