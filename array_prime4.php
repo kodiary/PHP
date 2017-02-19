@@ -22,3 +22,5 @@ foreach($a as $k=>$v)
     echo $k." ".$v."<br/>";
 }
 ?>
+<hr />
+<a href="File_list.php">Back</a>

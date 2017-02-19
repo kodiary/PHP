@@ -23,3 +23,5 @@ for($i=0;$i<count($a);$i++)
 }
 //var_dump($a);
 ?>
+<hr />
+<a href="File_list.php">Back</a>

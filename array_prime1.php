@@ -34,3 +34,5 @@ foreach($a as $v)
 //var_dump($a);
 
 ?>
+<hr />
+<a href="File_list.php">Back</a>

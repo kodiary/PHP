@@ -16,8 +16,10 @@ for($i=1; $i<=10; $i++)
     
 }
 
-?>
 
+?>
+<hr />
+<a href="File_list.php">Back</a>
 
     
     

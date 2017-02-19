@@ -60,6 +60,8 @@ okay lets goooooooooooooooooo!!!!!!
     <tr><td>Firoj</td><td>Male</td><td>22</td></tr>
     <tr><td>Saif</td><td>Male</td><td>18</td></tr>
 </table>
+<hr />
+<a href="File_list.php">Back</a>
 
 </body>
 </html>

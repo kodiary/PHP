@@ -20,3 +20,5 @@ foreach($a as $v)
     echo $v['Gender']."<br/>";
 }
 ?>
+<hr />
+<a href="File_list.php">Back</a>

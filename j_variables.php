@@ -17,3 +17,5 @@ else{
 
 
 ?>
+<hr />
+<a href="File_list.php">Back</a>

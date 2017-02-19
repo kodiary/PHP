@@ -1,9 +1,0 @@
-<?php
-$a[0]['name']='A';
-$a[0]['Class']='2';
-$a[0]['Gender']='M';
-$a[1]['name']='A';
-$a[1]['Class']='5';
-$a[1]['Gender']='F';
-var_dump($a);
-?>
